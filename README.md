@@ -6,5 +6,5 @@ This website is basically for people who want to know me more, I state my favori
 I studied how to develop a simple website page by using basic HTML and CSS,
 as well as implementing Materialize as A modern responsive front-end framework based on Material Design.
 
-Checkout how it looks like now!
+See how it looks now!
 >>> https://bit.ly/ArizWebProject <<<
